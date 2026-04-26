@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository captures my journey of building a strong foundation in data science through hands-on, project-based learning in Python.
+This repository captures my journey of building a strong foundation in data science through project-based learning in Python.
 
 Rather than approaching data science as a collection of tools, this work focuses on developing a structured way of thinking — how to move from ambiguous problems to clear, data-driven insights.
 
